@@ -14,6 +14,16 @@ The project benchmarks different neural network architectures — **Custom CNN, 
 | HCCR       | 96.14        |
 | CapsNet    | 93.10        |
 
+## Training Curves
+### CNN
+![CNN Accuracy](Results/cnn_accuracyplot.png)
+### DenseNet
+![DenseNet Accuracy](Results/densenet_accuracyplot.png)
+### HCCR
+![HCCR Accuracy](Results/hccr_accuracyplot.png)
+### CapsNet CNN
+![CapsNet Accuracy](Results/capsnet_accuracyplot.png)
+
 # Features
 - **Custom Dataset Loader** – Uses CSVs mapping filenames to labels.  
 - **Image Preprocessing** – Resizing, grayscale conversion, normalization, and augmentations (rotation, affine transforms, scaling).  
