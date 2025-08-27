@@ -22,7 +22,7 @@ The project benchmarks different neural network architectures — **Custom CNN, 
 ### HCCR
 ![HCCR Accuracy](Results/hccr_accuracyplot.png)
 ### CapsNet CNN
-![CapsNet Accuracy](Results/capsnet_accuracyplot.png)
+![CapsNet Accuracy](Results/capsnet_acccuracyplot.png)
 
 # Features
 - **Custom Dataset Loader** – Uses CSVs mapping filenames to labels.  
