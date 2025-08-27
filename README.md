@@ -6,6 +6,13 @@ The dataset consists of **156 character classes**, preprocessed into **64×64 gr
 The project benchmarks different neural network architectures — **Custom CNN, DenseNet, GoogLeNet (HCCR-inspired), and Capsule CNN** — and compares their performance using consistent preprocessing, training, and evaluation strategies.  
 
 ---
+# Results Summary
+| Model      | Accuracy (%) |
+|------------|--------------|
+| CNN        | 96.94        |
+| DenseNet   | 96.87        |
+| HCCR       | 96.14        |
+| CapsNet    | 93.10        |
 
 # Features
 - **Custom Dataset Loader** – Uses CSVs mapping filenames to labels.  
